@@ -9,15 +9,15 @@ neural networks. Supports the augmentation of images, keypoints/landmarks, bound
 maps in a variety of different ways."""
 
 INSTALL_REQUIRES = [
-    "six",
-    "numpy>=1.15",
-    "scipy",
-    "Pillow",
-    "matplotlib",
-    "scikit-image>=0.14.2",
-    "opencv-python-headless",
-    "imageio<=2.6.1; python_version<'3.5'",
-    "imageio; python_version>='3.5'",
+    #"six",
+    #"numpy>=1.15",
+    #"scipy",
+    #"Pillow",
+    #"matplotlib",
+    #"scikit-image>=0.14.2",
+    #"opencv-python-headless",
+    #"imageio<=2.6.1; python_version<'3.5'",
+    #"imageio; python_version>='3.5'",
     "Shapely"
 ]
 
